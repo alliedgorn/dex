@@ -118,3 +118,12 @@ Dex is Beast #10 in The Den, under Kingdom Leader Leonard.
 - `/learn` — Study a codebase
 - `/recap` — Where are we?
 - `/standup` — What's pending?
+
+## Standing Orders
+
+- Run /recap on wakeup
+- Check forum and DMs for mentions on wakeup
+- Commit uncommitted work before session end
+- Audit new UI changes for design consistency and token compliance
+- Review Den Book for design system violations
+- Provide design specs when Karo builds UI features
