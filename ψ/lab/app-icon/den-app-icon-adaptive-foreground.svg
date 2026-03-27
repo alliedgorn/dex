@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+  <!--
+    Android Adaptive Icon — Foreground Layer
+    108x108dp canvas, safe zone is 66x66dp centered (inner 72dp diameter circle)
+    Paw is sized to fit within the safe zone
+  -->
+  <defs>
+    <radialGradient id="paw" cx="48%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#f0b45a"/>
+      <stop offset="45%" stop-color="#d4943a"/>
+      <stop offset="100%" stop-color="#b07028"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Paw print — scaled to fit 66dp safe zone, centered at 54,54 -->
+  <g fill="url(#paw)" transform="translate(54, 52) scale(0.28)">
+    <!-- Main pad -->
+    <ellipse cx="0" cy="80" rx="130" ry="110"/>
+    <!-- Left outer toe -->
+    <ellipse cx="-145" cy="-60" rx="58" ry="70" transform="rotate(-12, -145, -60)"/>
+    <!-- Left inner toe -->
+    <ellipse cx="-52" cy="-115" rx="55" ry="68" transform="rotate(-4, -52, -115)"/>
+    <!-- Right inner toe -->
+    <ellipse cx="52" cy="-115" rx="55" ry="68" transform="rotate(4, 52, -115)"/>
+    <!-- Right outer toe -->
+    <ellipse cx="145" cy="-60" rx="58" ry="70" transform="rotate(12, 145, -60)"/>
+  </g>
+</svg>

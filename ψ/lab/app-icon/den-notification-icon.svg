@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!--
+    Android Notification Icon — Monochrome white silhouette
+    24×24dp, white on transparent. Android tints this automatically.
+    Must be simple and legible at very small sizes.
+  -->
+  <g fill="#FFFFFF" transform="translate(12, 11.5) scale(0.052)">
+    <!-- Main pad -->
+    <ellipse cx="0" cy="80" rx="130" ry="110"/>
+    <!-- Left outer toe -->
+    <ellipse cx="-145" cy="-60" rx="58" ry="70" transform="rotate(-12, -145, -60)"/>
+    <!-- Left inner toe -->
+    <ellipse cx="-52" cy="-115" rx="55" ry="68" transform="rotate(-4, -52, -115)"/>
+    <!-- Right inner toe -->
+    <ellipse cx="52" cy="-115" rx="55" ry="68" transform="rotate(4, 52, -115)"/>
+    <!-- Right outer toe -->
+    <ellipse cx="145" cy="-60" rx="58" ry="70" transform="rotate(12, 145, -60)"/>
+  </g>
+</svg>

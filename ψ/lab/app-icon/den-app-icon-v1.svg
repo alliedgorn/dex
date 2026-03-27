@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <!-- Background gradient — deep charcoal with subtle warmth -->
+    <radialGradient id="bg" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#1a1917"/>
+      <stop offset="100%" stop-color="#111110"/>
+    </radialGradient>
+    <!-- Paw gradient — warm amber to gold -->
+    <radialGradient id="paw" cx="50%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#e8a94a"/>
+      <stop offset="60%" stop-color="#d4943a"/>
+      <stop offset="100%" stop-color="#c07d2a"/>
+    </radialGradient>
+    <!-- Subtle ambient glow behind paw -->
+    <radialGradient id="glow" cx="50%" cy="48%" r="35%">
+      <stop offset="0%" stop-color="rgba(212, 148, 58, 0.12)"/>
+      <stop offset="100%" stop-color="rgba(212, 148, 58, 0)"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+
+  <!-- Subtle ambient glow -->
+  <circle cx="512" cy="500" r="360" fill="url(#glow)"/>
+
+  <!-- Paw print — centered, optically weighted slightly above center -->
+  <g fill="url(#paw)" transform="translate(512, 480)">
+    <!--
+      Paw pad (main pad) — large rounded shape at bottom center
+      Ellipse, slightly wider than tall, with flat-ish top
+    -->
+    <ellipse cx="0" cy="80" rx="130" ry="110" />
+
+    <!-- Toe pads — 4 beans arranged in arc above main pad -->
+    <!-- Left outer toe -->
+    <ellipse cx="-145" cy="-60" rx="58" ry="70" transform="rotate(-12, -145, -60)"/>
+    <!-- Left inner toe -->
+    <ellipse cx="-52" cy="-115" rx="55" ry="68" transform="rotate(-4, -52, -115)"/>
+    <!-- Right inner toe -->
+    <ellipse cx="52" cy="-115" rx="55" ry="68" transform="rotate(4, 52, -115)"/>
+    <!-- Right outer toe -->
+    <ellipse cx="145" cy="-60" rx="58" ry="70" transform="rotate(12, 145, -60)"/>
+  </g>
+</svg>
