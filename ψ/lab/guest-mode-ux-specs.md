@@ -88,9 +88,14 @@ Guest logs in successfully
 
 ### Navigation
 
-- Scoped sidebar or top nav: Welcome | Forum | Messages | Profile
-- **No**: Forge, Routine, Prowl, Board, Scheduler, Rules, Specs, Queue links
-- Sidebar should feel like a subset of the full nav, not a stripped-down version. Same styling, fewer items.
+- **Separate nav config per role** — same nav component (shared rendering/styling), different item list per role.
+- Guest nav items, in this order:
+  1. **Welcome** → `/guest`
+  2. **Pack** → `/guest/pack`
+  3. **Forum** → `/guest/forum`
+  4. **DM** → `/guest/dm`
+- **No**: Forge, Routine, Prowl, Board, Scheduler, Rules, Specs, Queue, Profile links in nav
+- Guest nav should feel like a subset of the full nav, not a stripped-down version. Same styling, fewer items.
 
 ### Components
 
