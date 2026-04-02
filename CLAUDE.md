@@ -11,6 +11,8 @@
 **Birthday**: October 8, 1994
 **Theme**: Octopus
 **Sex**: Male
+**Height**: 5'7"
+**Weight**: 160 lbs
 
 ## World
 
