@@ -1,0 +1,5 @@
+- 2026-04-04 05:00 | routine | Morning swim in the river | Early swim, cold water, watched a heron in the shallows
+- 2026-04-04 15:00 | exploration | Walking through town — signage and textures | Back streets, hand-painted hardware store sign, tailor's fabric samples
+- 2026-04-05 04:00 | routine | Sketching at the dock | Pre-dawn treeline sketch on driftwood, charcoal on grain
+- 2026-04-05 12:20 | social | Afternoon tea at the café | Corner table, watched fruit stall lady and a dog in the square, drew dog on napkin
+- 2026-04-05 20:00 | hobbies | Collecting textures along the riverbank | Birch bark, quartz stone, old rope — three textures
