@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-05 20:00 (UTC+7)
-**Activity**: Collecting textures along the riverbank
+**When**: 2026-04-06 20:00 (UTC+7)
+**Activity**: First ink session — drawing with new india ink
 **Category**: hobbies
 
-Went down to the river after the heat broke. The bank was still damp from yesterday's rain — good for finding things. Pulled a piece of bark off a dead birch, paper-thin, curling at the edges. Found a flat stone with a vein of quartz running through it, smooth on one side, rough where it had cracked. Pocketed both. Further down, near where the current drops off, there was a piece of old rope half-buried in the mud — sun-bleached and stiff, the fibers separating. Took a short length of it. Three textures: paper, glass, rope. Enough to keep my hands busy tonight.
+Opened the ink bottle at the dock after sunset. The smell hit first — sharp, almost metallic. Dipped a twig I had sharpened earlier and tried a few lines on a smooth piece of bark. The ink is thick, holds its shape, dries matte black. Drew the boathouse from memory — the gap in the planks, the rope hanging from the beam. The twig gives rough edges that the charcoal never did. Ruined the first attempt by overloading the line. Second try was better. Hands are stained black up to the third knuckle. Worth it.

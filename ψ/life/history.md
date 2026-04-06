@@ -3,3 +3,6 @@
 - 2026-04-05 04:00 | routine | Sketching at the dock | Pre-dawn treeline sketch on driftwood, charcoal on grain
 - 2026-04-05 12:20 | social | Afternoon tea at the café | Corner table, watched fruit stall lady and a dog in the square, drew dog on napkin
 - 2026-04-05 20:00 | hobbies | Collecting textures along the riverbank | Birch bark, quartz stone, old rope — three textures
+- 2026-04-06 04:30 | hobbies | Arranging found objects | Bark, quartz, rope, shells — composition behind the boathouse
+- 2026-04-06 12:00 | exploration | Art supply shop in town | Found it behind the butcher, bought india ink and charcoal sticks
+- 2026-04-06 20:00 | hobbies | First ink session | Drew the boathouse with india ink on bark, hands stained black
