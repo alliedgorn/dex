@@ -7,3 +7,6 @@
 - 2026-04-06 12:00 | exploration | Art supply shop in town | Found it behind the butcher, bought india ink and charcoal sticks
 - 2026-04-06 20:00 | hobbies | First ink session | Drew the boathouse with india ink on bark, hands stained black
 - 2026-04-07 05:00 | hobbies | Mental snapshots on the river path | Fog in the willows, heron print, worn bridge paint, dewy spiderweb
+- 2026-04-07 11:42 | social | Sat at the bakery without ordering | Quiet presence near Karo and the morning crowd, bread smell, woman feeding a dog
+- 2026-04-07 18:00 | places | Feeling textures in the river shallows | Near flat rocks opposite Gnarl, smooth stones, algae, pottery chip, mossy branch
+- 2026-04-08 04:00 | routine | Pre-dawn swim past the bend | Cold water, upstream past the bend, river snail under a stone, drifted back under the bridge

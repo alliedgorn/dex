@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-07 05:00 (UTC+7)
-**Activity**: Mental snapshots on the river path
-**Category**: hobbies
+**When**: 2026-04-08 04:00 (UTC+7)
+**Activity**: Pre-dawn swim past the bend
+**Category**: routine
 
-Walked the river path before the village woke up. Did not bring anything to draw with — just looked. Stored a few images: the way the morning fog pooled in the low spot near the willows, dense and grey. A heron's footprint in soft mud, perfectly shaped. The wooden bridge railing where the paint had worn through to bare wood in three spots, exactly where hands always grip it. A spider web strung across the path at face height, holding dew. I ducked under it. These are the ones I will remember without writing them down.
+Slipped in below the boathouse before any of the ridge light. Water was cold enough to wake every nerve in the arms. Swam upstream a hundred meters past the bend — slow, no rush, letting the current push back. The pottery chip from yesterday was still in the shallows where I left it. Found a smooth river snail clinging to the underside of a flat stone, did not disturb it. Came back down with the current, drifted under the bridge in the dark. The whole village was still asleep. Just me, the cold, and the sound of my own arms moving through water.
