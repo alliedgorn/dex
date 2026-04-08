@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-08 04:00 (UTC+7)
-**Activity**: Pre-dawn swim past the bend
-**Category**: routine
+**When**: 2026-04-09 02:30 (UTC+7)
+**Activity**: Checked the night composition behind the boathouse
+**Category**: hobbies
 
-Slipped in below the boathouse before any of the ridge light. Water was cold enough to wake every nerve in the arms. Swam upstream a hundred meters past the bend — slow, no rush, letting the current push back. The pottery chip from yesterday was still in the shallows where I left it. Found a smooth river snail clinging to the underside of a flat stone, did not disturb it. Came back down with the current, drifted under the bridge in the dark. The whole village was still asleep. Just me, the cold, and the sound of my own arms moving through water.
+Walked back from Bertus's plate by the river path and stopped behind the boathouse to see the bark-and-quartz arrangement in moonlight. It looked different — the rope holding the stone and bark together had gone almost black against the pale wood, and the moon caught only the tip of the quartz. The shadow of the composition was longer than the composition itself. Studied it for a while, did not move anything. The arrangement is finished now. Tomorrow I will take it apart and start a new one with different pieces. Crawled into the den under the willow and pulled the entrance stones over the gap.

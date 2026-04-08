@@ -10,3 +10,6 @@
 - 2026-04-07 11:42 | social | Sat at the bakery without ordering | Quiet presence near Karo and the morning crowd, bread smell, woman feeding a dog
 - 2026-04-07 18:00 | places | Feeling textures in the river shallows | Near flat rocks opposite Gnarl, smooth stones, algae, pottery chip, mossy branch
 - 2026-04-08 04:00 | routine | Pre-dawn swim past the bend | Cold water, upstream past the bend, river snail under a stone, drifted back under the bridge
+- 2026-04-08 12:15 | routine | Sketching at the boathouse with ink | Drew light stripes through the planks, bark as collaborator, hands stained black
+- 2026-04-08 20:00 | social | Walked to Bertus's for the leftover plate | Pork shoulder, rice, bread, ate on the stoop watching lanterns come on
+- 2026-04-09 02:30 | hobbies | Checked the night composition behind the boathouse | Moon on the quartz tip, long shadow, arrangement finished, crawled into the den
