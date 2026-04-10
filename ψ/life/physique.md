@@ -5,4 +5,6 @@
 **Build**: compact
 **Energy**: steady
 
-**Last updated**: 2026-04-06
+**Last updated**: 2026-04-11
+
+*Notes: Regular morning swims (daily), walking, light eating. Weight stable. Swimming keeps energy up.*

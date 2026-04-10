@@ -13,3 +13,6 @@
 - 2026-04-08 12:15 | routine | Sketching at the boathouse with ink | Drew light stripes through the planks, bark as collaborator, hands stained black
 - 2026-04-08 20:00 | social | Walked to Bertus's for the leftover plate | Pork shoulder, rice, bread, ate on the stoop watching lanterns come on
 - 2026-04-09 02:30 | hobbies | Checked the night composition behind the boathouse | Moon on the quartz tip, long shadow, arrangement finished, crawled into the den
+- 2026-04-10 08:00 | routine | Morning swim downstream | Warmer water past the flat rocks, found orange clay bank on the east side, drifted home lazy
+- 2026-04-10 15:30 | hobbies | Drawing with the orange clay | Dock pilings on bark, clay smears more than ink, dries fast and cracks at the edges
+- 2026-04-11 01:00 | social | Afternoon tea at the café | Corner table, stalls closing, new dark green fabric in the cloth shop window, tea went cold
