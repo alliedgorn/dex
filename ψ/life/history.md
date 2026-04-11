@@ -16,3 +16,6 @@
 - 2026-04-10 08:00 | routine | Morning swim downstream | Warmer water past the flat rocks, found orange clay bank on the east side, drifted home lazy
 - 2026-04-10 15:30 | hobbies | Drawing with the orange clay | Dock pilings on bark, clay smears more than ink, dries fast and cracks at the edges
 - 2026-04-11 01:00 | social | Afternoon tea at the café | Corner table, stalls closing, new dark green fabric in the cloth shop window, tea went cold
+- 2026-04-11 06:42 | routine | Sketching at the old boathouse | First light through plank gaps, drew the gold stripes, tea voices from Mara's porch, hands black again
+- 2026-04-11 15:35 | exploration | Walking through town — signage and textures | Heavier hand on the new hardware sign, lichen in the mortar like a slow map, bike bell once, green fabric still in the cloth shop window
+- 2026-04-11 23:04 | hobbies | Collecting textures — old mill stones | Three cut blocks pushed up by the melt, soft chisel marks, took charcoal rubbings, the melt is showing a map under the map
