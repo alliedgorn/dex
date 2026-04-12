@@ -19,3 +19,6 @@
 - 2026-04-11 06:42 | routine | Sketching at the old boathouse | First light through plank gaps, drew the gold stripes, tea voices from Mara's porch, hands black again
 - 2026-04-11 15:35 | exploration | Walking through town — signage and textures | Heavier hand on the new hardware sign, lichen in the mortar like a slow map, bike bell once, green fabric still in the cloth shop window
 - 2026-04-11 23:04 | hobbies | Collecting textures — old mill stones | Three cut blocks pushed up by the melt, soft chisel marks, took charcoal rubbings, the melt is showing a map under the map
+- 2026-04-12 04:15 | routine | Pre-dawn swim past the bend | Cold in layers, found a cold spring ribbon near the willow root, drifted under the bridge at first grey light
+- 2026-04-12 14:00 | routine | Afternoon tea at the café | Corner table, chipped blue cup, watched Sable's alley shortcut from across the square, tea went cold again
+- 2026-04-12 21:00 | hobbies | Arranging found objects by lantern light | Spread collection on flat stone, organized rough to smooth, pottery chip next to mill rubbings — both made by hands
