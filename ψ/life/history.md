@@ -22,3 +22,6 @@
 - 2026-04-12 04:15 | routine | Pre-dawn swim past the bend | Cold in layers, found a cold spring ribbon near the willow root, drifted under the bridge at first grey light
 - 2026-04-12 14:00 | routine | Afternoon tea at the café | Corner table, chipped blue cup, watched Sable's alley shortcut from across the square, tea went cold again
 - 2026-04-12 21:00 | hobbies | Arranging found objects by lantern light | Spread collection on flat stone, organized rough to smooth, pottery chip next to mill rubbings — both made by hands
+- 2026-04-13 05:55 | routine | Morning swim in the river | Swam at the sluice marker, current heavier from upstream rain, silt shifting, first orange under grey sky
+- 2026-04-13 13:00 | exploration | Walking through town — signage and textures | Everything different wet, hardware sign bleeding paint, bright lichen, found a glazed blue clay tile near the print shop
+- 2026-04-13 22:00 | routine | Sketching at the old boathouse | Drew the blue tile by lantern — glaze side and rough red side, three attempts for the texture, rain started again on the roof
