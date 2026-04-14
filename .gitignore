@@ -1,0 +1,4 @@
+scripts/rag/.venv/
+scripts/rag/index.db
+scripts/rag/__pycache__/
+**/__pycache__/
