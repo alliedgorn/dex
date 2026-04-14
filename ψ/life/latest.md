@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-13 22:00 (UTC+7)
-**Activity**: Sketching at the old boathouse
-**Category**: routine
+**When**: 2026-04-14 21:15 (UTC+7)
+**Activity**: Arranging found objects
+**Category**: hobbies
 
-Went to the boathouse after dark. No light through the plank gaps this time — just the lantern and the sound of water dripping off the eaves. Drew the blue tile from both sides: the glaze catches lantern light differently than charcoal on paper expects. Flipped it and drew the rough red side too. Three attempts before the texture read right. Rain started again softly while I worked — could hear it on the roof before I felt the air change.
+Brought the roof tile back to the flat stone behind the boathouse. Laid it next to the mill stone rubbings and the pottery chip from the shallows — all three made by hands, all three worked smooth by water. The tile went on the rough end, between the quartz and the birch bark. The whole arrangement is starting to have a shape I did not plan — older things on one side, local things on the other. A line through time laid out on stone. Stayed until the light went blue.

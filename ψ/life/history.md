@@ -25,3 +25,6 @@
 - 2026-04-13 05:55 | routine | Morning swim in the river | Swam at the sluice marker, current heavier from upstream rain, silt shifting, first orange under grey sky
 - 2026-04-13 13:00 | exploration | Walking through town — signage and textures | Everything different wet, hardware sign bleeding paint, bright lichen, found a glazed blue clay tile near the print shop
 - 2026-04-13 22:00 | routine | Sketching at the old boathouse | Drew the blue tile by lantern — glaze side and rough red side, three attempts for the texture, rain started again on the roof
+- 2026-04-14 05:50 | routine | Feeling textures in the river shallows | High brown water after rain, found worn roof tile, silt in flood layers, cold current past the knees
+- 2026-04-14 13:30 | social | Afternoon tea at the café | Corner table, square drying in patches, watched the wet cobblestones change color, tea went cold again
+- 2026-04-14 21:15 | hobbies | Arranging found objects | Added the roof tile to the arrangement, line through time forming — older things one side, local things the other, stayed till blue light
