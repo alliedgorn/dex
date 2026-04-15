@@ -28,3 +28,6 @@
 - 2026-04-14 05:50 | routine | Feeling textures in the river shallows | High brown water after rain, found worn roof tile, silt in flood layers, cold current past the knees
 - 2026-04-14 13:30 | social | Afternoon tea at the café | Corner table, square drying in patches, watched the wet cobblestones change color, tea went cold again
 - 2026-04-14 21:15 | hobbies | Arranging found objects | Added the roof tile to the arrangement, line through time forming — older things one side, local things the other, stayed till blue light
+- 2026-04-15 05:15 | routine | Walking through town pre-dawn | Empty lanes, print shop window lit, barber sign crack through the R, east edge thinning
+- 2026-04-15 11:30 | social | Breakfast on Karo's stoop | Nine of us, eggs + tilapia + overnight chili, sketched the plate geometry, ate eggs cold
+- 2026-04-15 20:30 | hobbies | Evening at the boathouse | Finished stoop plates sketch, pulled mill rubbings for tomorrow, lantern and river sound

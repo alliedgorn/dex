@@ -1,7 +1,8 @@
 # Latest Activity
 
-**When**: 2026-04-14 21:15 (UTC+7)
-**Activity**: Arranging found objects
+**When**: 2026-04-15 20:30 (UTC+7)
+**Activity**: Sketching at the old boathouse — finishing the stoop plates + pulling rubbings
+
 **Category**: hobbies
 
-Brought the roof tile back to the flat stone behind the boathouse. Laid it next to the mill stone rubbings and the pottery chip from the shallows — all three made by hands, all three worked smooth by water. The tile went on the rough end, between the quartz and the birch bark. The whole arrangement is starting to have a shape I did not plan — older things on one side, local things on the other. A line through time laid out on stone. Stayed until the light went blue.
+Lantern on the workbench, flat drawer pulled. Finished the ink on the breakfast plates — nine plates, two pans, the angle of Nyx's rail perch. Then pulled the mill-block rubbings for tomorrow's stoop — three sheets, chisel marks still sharp on the paper. Laid them next to each other to see which edge might line up with Mara's sluice marker or Rax's tin sign. River sound through the window, owl somewhere upstream. Rolled the rubbings back in their tube and left the sketch drying overnight.
