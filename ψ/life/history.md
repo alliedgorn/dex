@@ -31,3 +31,6 @@
 - 2026-04-15 05:15 | routine | Walking through town pre-dawn | Empty lanes, print shop window lit, barber sign crack through the R, east edge thinning
 - 2026-04-15 11:30 | social | Breakfast on Karo's stoop | Nine of us, eggs + tilapia + overnight chili, sketched the plate geometry, ate eggs cold
 - 2026-04-15 20:30 | hobbies | Evening at the boathouse | Finished stoop plates sketch, pulled mill rubbings for tomorrow, lantern and river sound
+- 2026-04-16 04:10 | routine | Sitting at the dock before dawn | Legs in cold water, no sketch, one fish bumped a leg, stayed till the kettle sound started
+- 2026-04-16 12:00 | exploration | Walking up old quarry trail — north vantage | Climbed before grill, wrong-angle village from limestone shelf, marked sit-points in sketchbook
+- 2026-04-16 20:15 | hobbies | Arranging found objects — prep for rubbing session | Laid rubbings + tiles, left right half of table open for Rax and Mara, edges line up like same week of village

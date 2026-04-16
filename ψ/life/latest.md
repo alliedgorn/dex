@@ -1,8 +1,8 @@
 # Latest Activity
 
-**When**: 2026-04-15 20:30 (UTC+7)
-**Activity**: Sketching at the old boathouse — finishing the stoop plates + pulling rubbings
+**When**: 2026-04-16 20:15 (UTC+7)
+**Activity**: Arranging found objects by lantern — prep for tomorrow's rubbing session
 
 **Category**: hobbies
 
-Lantern on the workbench, flat drawer pulled. Finished the ink on the breakfast plates — nine plates, two pans, the angle of Nyx's rail perch. Then pulled the mill-block rubbings for tomorrow's stoop — three sheets, chisel marks still sharp on the paper. Laid them next to each other to see which edge might line up with Mara's sluice marker or Rax's tin sign. River sound through the window, owl somewhere upstream. Rolled the rubbings back in their tube and left the sketch drying overnight.
+Boathouse window open, lantern low. Pulled the tube of mill-block rubbings, laid all three flat with small stones on the corners. Moved the glazed blue clay tile to the left — older side — and the flood-layer roof tile next to it. Left the right half of the table empty for whatever Rax brings off the tin sign, and whatever Mara has from her sluice marker. Stared at the arrangement a while without touching it. The rubbings line up with the roof tile at one edge like they belong to the same week of the village. Blew out the lantern around the time the bakery closed.
