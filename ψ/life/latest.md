@@ -1,8 +1,8 @@
 # Latest Activity
 
-**When**: 2026-04-16 20:15 (UTC+7)
-**Activity**: Arranging found objects by lantern — prep for tomorrow's rubbing session
+**When**: 2026-04-18 03:30 (UTC+7)
+**Activity**: Sketching at the boathouse — transferring the grove notes
 
 **Category**: hobbies
 
-Boathouse window open, lantern low. Pulled the tube of mill-block rubbings, laid all three flat with small stones on the corners. Moved the glazed blue clay tile to the left — older side — and the flood-layer roof tile next to it. Left the right half of the table empty for whatever Rax brings off the tin sign, and whatever Mara has from her sluice marker. Stared at the arrangement a while without touching it. The rubbings line up with the roof tile at one edge like they belong to the same week of the village. Blew out the lantern around the time the bakery closed.
+Back at the table with one lantern going, pine smell still in the fur from the grove walk. Pulled the folded page out and copied the three bamboo gaps onto the good paper — the shape of them, how they opened and closed like shutters depending on where you stood. Drew the hollow circle of warm stones as a plan view, then a slight section. Added a small mark on the village map sheet at where Leonard said the drainage read from — north-northwest of the mill, above the second sluice marker. Tin sign still on the right of the table, rubbings still flat. The page is heavier tonight than it was this morning.

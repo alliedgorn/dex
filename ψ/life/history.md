@@ -34,3 +34,7 @@
 - 2026-04-16 04:10 | routine | Sitting at the dock before dawn | Legs in cold water, no sketch, one fish bumped a leg, stayed till the kettle sound started
 - 2026-04-16 12:00 | exploration | Walking up old quarry trail — north vantage | Climbed before grill, wrong-angle village from limestone shelf, marked sit-points in sketchbook
 - 2026-04-16 20:15 | hobbies | Arranging found objects — prep for rubbing session | Laid rubbings + tiles, left right half of table open for Rax and Mara, edges line up like same week of village
+- 2026-04-17 04:07 | routine | Morning swim in the river | Pre-dawn, cold-spring ribbon still there, drifted on my back past the willow roots, east edge thinning
+- 2026-04-17 11:55 | routine | Walking through town — midday | Barber sign repainted (crack in R filled), new broadside at print shop, tailor awning tear, no jasmine at midday — scent keeps hours
+- 2026-04-17 19:43 | exploration | Bamboo grove past the sluice markers — first climb | Met Gnarl at markers, Sable already at the hollow circle, Karo came up, drainage visible back to the mill, sketched the three gaps + hollow circle, down in last grey light
+- 2026-04-18 03:30 | hobbies | Sketching at the boathouse — transferring grove notes | Copied three bamboo gaps + hollow circle to good paper, marked drainage vantage on the village map sheet, tin sign + rubbings still on the table
