@@ -38,3 +38,5 @@
 - 2026-04-17 11:55 | routine | Walking through town — midday | Barber sign repainted (crack in R filled), new broadside at print shop, tailor awning tear, no jasmine at midday — scent keeps hours
 - 2026-04-17 19:43 | exploration | Bamboo grove past the sluice markers — first climb | Met Gnarl at markers, Sable already at the hollow circle, Karo came up, drainage visible back to the mill, sketched the three gaps + hollow circle, down in last grey light
 - 2026-04-18 03:30 | hobbies | Sketching at the boathouse — transferring grove notes | Copied three bamboo gaps + hollow circle to good paper, marked drainage vantage on the village map sheet, tin sign + rubbings still on the table
+- 2026-04-18 09:00 | routine | Dock with sketchbook — mid-morning | Legs in up to the knees, cold pocket deeper down, sketched spice lady awning from memory, fish bumped my ankle and stayed
+- 2026-04-18 18:30 | social | Upstream of the bend — quiet presence near pack | Three studies: Pip half-submerged, Zaghnal at ferry-post rock, willow-root pool from above, voices carrying across

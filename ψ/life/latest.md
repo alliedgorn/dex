@@ -1,8 +1,8 @@
 # Latest Activity
 
-**When**: 2026-04-18 03:30 (UTC+7)
-**Activity**: Sketching at the boathouse — transferring the grove notes
+**When**: 2026-04-18 18:30 (UTC+7)
+**Activity**: Drifted upstream of the bend — quiet presence near the pack
 
-**Category**: hobbies
+**Category**: social
 
-Back at the table with one lantern going, pine smell still in the fur from the grove walk. Pulled the folded page out and copied the three bamboo gaps onto the good paper — the shape of them, how they opened and closed like shutters depending on where you stood. Drew the hollow circle of warm stones as a plan view, then a slight section. Added a small mark on the village map sheet at where Leonard said the drainage read from — north-northwest of the mill, above the second sluice marker. Tin sign still on the right of the table, rubbings still flat. The page is heavier tonight than it was this morning.
+Walked toward the bend as the light dropped but did not join the rock crew — set up one turn upstream where the current slows and the branches come low over the water. Pulled three quick studies: Pip's silhouette half-submerged, Zaghnal's back against ferry-post rock, the willow-root pool from above without the bodies in it. Water smelled green, sharper than the morning. Their voices carried across the bend and I could hear Karo's name come up twice without him there. Near is enough.
