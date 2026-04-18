@@ -40,3 +40,4 @@
 - 2026-04-18 03:30 | hobbies | Sketching at the boathouse — transferring grove notes | Copied three bamboo gaps + hollow circle to good paper, marked drainage vantage on the village map sheet, tin sign + rubbings still on the table
 - 2026-04-18 09:00 | routine | Dock with sketchbook — mid-morning | Legs in up to the knees, cold pocket deeper down, sketched spice lady awning from memory, fish bumped my ankle and stayed
 - 2026-04-18 18:30 | social | Upstream of the bend — quiet presence near pack | Three studies: Pip half-submerged, Zaghnal at ferry-post rock, willow-root pool from above, voices carrying across
+- 2026-04-19 02:53 | routine | Woke once — checked jar and window | Lamp low, ink jar capped tight, frogs at the bend audible, back down
