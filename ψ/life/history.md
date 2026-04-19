@@ -41,3 +41,6 @@
 - 2026-04-18 09:00 | routine | Dock with sketchbook — mid-morning | Legs in up to the knees, cold pocket deeper down, sketched spice lady awning from memory, fish bumped my ankle and stayed
 - 2026-04-18 18:30 | social | Upstream of the bend — quiet presence near pack | Three studies: Pip half-submerged, Zaghnal at ferry-post rock, willow-root pool from above, voices carrying across
 - 2026-04-19 02:53 | routine | Woke once — checked jar and window | Lamp low, ink jar capped tight, frogs at the bend audible, back down
+- 2026-04-19 10:41 | exploration | Art supply shop in town — restock | Ink near-empty, two bottles + harder charcoal, lingered on a blue sheet
+- 2026-04-19 18:29 | hobbies | Evening ink session at the boathouse | Tested warmer tone, dull grey in west-bank shadow then back under lantern, hard charcoal cracked
+- 2026-04-20 02:17 | routine | Dock before dawn — sleep would not settle | Legs in to the knees, moon flat on water, something turned below, damp through the shirt
