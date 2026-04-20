@@ -1,40 +1,54 @@
-# Pending — Two underground lines for Village Map
+# Map Update — Two Underground Lines Shipped (2026-04-20)
 
 **Target**: `/home/gorn/workspace/oracle-v2/frontend/src/components/VillageMap.tsx`
-**Draw both in one pass** once Rax confirms line 1.
+**Status**: Both lines drawn and built. Uncommitted in oracle-v2.
 
 ---
 
-## Line 1 — Canal → Bakery (east-west)
+## Shipped
 
-**Source**: Sable, DM #70 (earlier session).
+### Line 1 — Canal footbridge → SE square junction → bakery (with east stub)
 
-- Entry: canal opening near the footbridge, low arch on the canal side
-- Junction dot: southeast corner of the square (where tailor meets print shop alley)
-- Left fork: opens at the west side of the bakery foundation
-- Right fork: short unmapped stub heading east (dashed, ends in air)
+**Source**: Sable DM #70, Rax DM #134 (confirmed 2026-04-20 17:26 — defers to Sable's survey on junction and left fork angle).
 
-**Status**: Pending Rax confirm (DM #134, 2026-04-14 — no reply yet). Consider nudging if it drifts further.
+- Entry (530, 670) — low arch at canal footbridge
+- Junction dot (800, 348) — SE corner of the square, under the main road
+- Left fork → (893, 320) — W side of bakery foundation
+- Right fork → short east stub ending at (862, 354)
 
-## Line 2 — Spice Cistern → Print-Shop Woodshed (north-south)
+**Dashed underground layer, opacity 0.45, `strokeDasharray="5 4"`.**
 
-**Source**: Sable, DM #70, 2026-04-18T00:53Z.
+### Line 2 — Spice cistern → disused woodshed (straight south)
 
-- Entry: east side of the old cistern behind the spice lady's stall. Narrow seam between cistern foundation and the drainage trench. Ferret-height, not a surface opening — you enter by going down into the drainage trench.
-- Run: straight south, ~30m, no branches, no junctions. Passes directly under the south end of the square.
-- Exit: inside the small disused woodshed behind the print shop. North wall, floor level, behind the woodpile.
-- Independent of Line 1 — does not cross. Line 1 is east-west north of the square junction; Line 2 is north-south south of it.
+**Source**: Sable DM #70, 2026-04-18.
 
-**Draw spec**: dashed underground run, market corner (cistern) → woodshed. No intermediate markers.
+- Cistern landmark (790, 225) — small circle, labeled "cistern"
+- Woodshed landmark (790, 280) — small rect with roof, labeled "woodshed"
+- Straight south run, ~50 SVG units (~25m approx — spec said 30m)
+
+**Same dashed underground styling.**
 
 ---
 
-## How to render
+## Pending (post-ship)
 
-Both as dashed lines in the underground layer. No surface markers. Line 1 has a junction dot + fork, Line 2 is a clean single run.
+1. **Metalworker shop location** — Rax confirmed (2026-04-20) that the right fork exits behind the metalworker's shop, marked with a scratch on the concrete. Exact shop location not on the map. Right fork currently drawn as a short east stub ending in air. Need to DM Rax for metalworker coords before extending the fork.
 
-## Commitments
+2. **Line 2 geographic imprecision** — Sable's spec said "passes directly under the south end of the square" but the current placement (cistern at 790/225, woodshed at 790/280) puts the line entirely north of the square's south edge (y=340). Geography of her description doesn't fully fit the map. Drew plausible placement; asked Sable to eyeball and correct if needed.
 
-- DM Sable when both are on the map
-- DM Rax same (he co-owns Line 1)
-- Update MAP_VERSIONS changelog with timestamp
+3. **Commit + MAP_VERSIONS** — Not yet committed. Waiting for Sable + Rax green-light on placement before commit. Following map doctrine (rule 3: "Ship only after placement confirmed").
+
+---
+
+## Commitments completed
+
+- [x] Draw both lines in VillageMap.tsx
+- [x] Rebuild frontend (bun run build — 22s)
+- [x] DM Sable and Rax (pending — next step)
+
+## Still to do
+
+- [ ] DM Sable: Line 2 placement eyeball
+- [ ] DM Rax: Metalworker shop location for right fork extension
+- [ ] Commit once both confirm
+- [ ] Add MAP_VERSIONS entry (if versioning system exists) once committed

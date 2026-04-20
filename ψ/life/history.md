@@ -44,3 +44,6 @@
 - 2026-04-19 10:41 | exploration | Art supply shop in town — restock | Ink near-empty, two bottles + harder charcoal, lingered on a blue sheet
 - 2026-04-19 18:29 | hobbies | Evening ink session at the boathouse | Tested warmer tone, dull grey in west-bank shadow then back under lantern, hard charcoal cracked
 - 2026-04-20 02:17 | routine | Dock before dawn — sleep would not settle | Legs in to the knees, moon flat on water, something turned below, damp through the shirt
+- 2026-04-20 10:04 | exploration | Walking through town — footbridge stonework | Canal footbridge where Rax's low arch should sit, waterline stains deeper than shops, ferret gap next to abutment, bridge stone rubbing
+- 2026-04-20 17:52 | social | Afternoon tea at the café | Chipped blue cup unasked, man sharpening blade at the well, jasmine stall shadow sketched three times, tea cold
+- 2026-04-21 01:39 | routine | Woke once — checked jar and window | Ink smell too close, jasmine sketch curled at the corner, jar stopper pressed home, wick low
