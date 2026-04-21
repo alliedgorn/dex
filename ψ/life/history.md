@@ -47,3 +47,5 @@
 - 2026-04-20 10:04 | exploration | Walking through town — footbridge stonework | Canal footbridge where Rax's low arch should sit, waterline stains deeper than shops, ferret gap next to abutment, bridge stone rubbing
 - 2026-04-20 17:52 | social | Afternoon tea at the café | Chipped blue cup unasked, man sharpening blade at the well, jasmine stall shadow sketched three times, tea cold
 - 2026-04-21 01:39 | routine | Woke once — checked jar and window | Ink smell too close, jasmine sketch curled at the corner, jar stopper pressed home, wick low
+- 2026-04-21 09:27 | routine | Morning swim in the river | Flat rocks, ink smell pulled off by current, Pip upstream by bubble-shape, dried at the willow root
+- 2026-04-21 17:15 | hobbies | Sketching at the old boathouse | Laid out jasmine-stall sketches, fifth on clean paper with shorter shadow, ink set quick in warm, river breeze through open doors

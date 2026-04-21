@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-21 01:39 (UTC+7)
-**Activity**: Woke once — checked jar and window
-**Category**: routine
+**When**: 2026-04-21 17:15 (UTC+7)
+**Activity**: Sketching at the old boathouse
+**Category**: hobbies
 
-Woke to the ink smell closer than it should have been. Jasmine-stall sketch still beside the cot, corner curled from the damp. Capped the jar tighter, pressed the stopper home. Lantern wick low, one ember holding for the draft. Back under before the cot cooled.
+Headed over to the boathouse while the afternoon light still worked the plank gaps. Laid the jasmine-stall sketches out — the fourth one from last night sat best, the rest read too careful. Pulled a clean sheet and did the fifth with the shadow shorter than I remembered it. Ink set quick in the warm. Left the doors open, river breeze coming through.
