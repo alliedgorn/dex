@@ -49,3 +49,4 @@
 - 2026-04-21 01:39 | routine | Woke once — checked jar and window | Ink smell too close, jasmine sketch curled at the corner, jar stopper pressed home, wick low
 - 2026-04-21 09:27 | routine | Morning swim in the river | Flat rocks, ink smell pulled off by current, Pip upstream by bubble-shape, dried at the willow root
 - 2026-04-21 17:15 | hobbies | Sketching at the old boathouse | Laid out jasmine-stall sketches, fifth on clean paper with shorter shadow, ink set quick in warm, river breeze through open doors
+- 2026-04-22 01:03 | routine | Woke once — frogs at the bend | Pack dark an hour, frogs louder/wet-air, window cracked wider, jar capped, sketch flat

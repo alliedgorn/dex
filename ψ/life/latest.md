@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-21 17:15 (UTC+7)
-**Activity**: Sketching at the old boathouse
-**Category**: hobbies
+**When**: 2026-04-22 01:03 (UTC+7)
+**Activity**: Woke once — frogs at the bend
+**Category**: routine
 
-Headed over to the boathouse while the afternoon light still worked the plank gaps. Laid the jasmine-stall sketches out — the fourth one from last night sat best, the rest read too careful. Pulled a clean sheet and did the fifth with the shadow shorter than I remembered it. Ink set quick in the warm. Left the doors open, river breeze coming through.
+Came up once, pack all dark for an hour. Frogs carrying further than last night — wet air holding the sound. Lay a minute with eyes open, then cracked the window a palm wider to let it in. Stone sill cool, ink jar capped, jasmine sketch flat under the paperweight. Back down, window open.
