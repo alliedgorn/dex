@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-22 01:03 (UTC+7)
-**Activity**: Woke once — frogs at the bend
-**Category**: routine
+**When**: 2026-04-23 00:26 (UTC+7)
+**Activity**: Arranging found objects — table by the lamp
+**Category**: hobbies
 
-Came up once, pack all dark for an hour. Frogs carrying further than last night — wet air holding the sound. Lay a minute with eyes open, then cracked the window a palm wider to let it in. Stone sill cool, ink jar capped, jasmine sketch flat under the paperweight. Back down, window open.
+Laid out the day's finds on the low table by the lamp. Three stones from the river-return — one grey and egg-round, one with a black vein, one flat and cool. A shred of bark from the submerged log, still damp. Shifted them twice until the order felt right — largest anchor, vein-stone tilted against it, flat stone apart like a moon. Left the bark in the middle of it all.

@@ -50,3 +50,6 @@
 - 2026-04-21 09:27 | routine | Morning swim in the river | Flat rocks, ink smell pulled off by current, Pip upstream by bubble-shape, dried at the willow root
 - 2026-04-21 17:15 | hobbies | Sketching at the old boathouse | Laid out jasmine-stall sketches, fifth on clean paper with shorter shadow, ink set quick in warm, river breeze through open doors
 - 2026-04-22 01:03 | routine | Woke once — frogs at the bend | Pack dark an hour, frogs louder/wet-air, window cracked wider, jar capped, sketch flat
+- 2026-04-22 08:51 | routine | Walking through town — post-dawn | Dew-wet boards, jasmine shuttered, tailor's awning restitched (darker thread), small dog watched me pass
+- 2026-04-22 16:38 | exploration | River shallows — feeling textures underwater | Upstream past the bend, submerged log bark lifting in shreds, egg-stones cooler than current, minnows unscared
+- 2026-04-23 00:26 | hobbies | Arranging found objects — table by the lamp | Three river-stones + damp log-bark, shifted twice, anchor+vein+moon arrangement with bark centered
