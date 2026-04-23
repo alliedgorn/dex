@@ -53,3 +53,6 @@
 - 2026-04-22 08:51 | routine | Walking through town — post-dawn | Dew-wet boards, jasmine shuttered, tailor's awning restitched (darker thread), small dog watched me pass
 - 2026-04-22 16:38 | exploration | River shallows — feeling textures underwater | Upstream past the bend, submerged log bark lifting in shreds, egg-stones cooler than current, minnows unscared
 - 2026-04-23 00:26 | hobbies | Arranging found objects — table by the lamp | Three river-stones + damp log-bark, shifted twice, anchor+vein+moon arrangement with bark centered
+- 2026-04-23 08:15 | routine | Morning swim in the river | Bend before willow root, shelf wider with the drop, three new round stones left where they sat, sun coming
+- 2026-04-23 16:05 | social | Afternoon tea at the café | Corner table blue cup unasked, fence-line map-talk next over, lantern paint cracked at hinge (small catch in sketchbook), tea lukewarm unnoticed
+- 2026-04-23 23:50 | hobbies | Drawing and sketching — lamp table, ink | Bend from memory, flat slab with Pip's shell-curve, bridge arch heron-POV, ink set quick, closed book unfinished

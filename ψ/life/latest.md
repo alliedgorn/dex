@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-23 00:26 (UTC+7)
-**Activity**: Arranging found objects — table by the lamp
+**When**: 2026-04-23 23:50 (UTC+7)
+**Activity**: Drawing and sketching — lamp table, ink
 **Category**: hobbies
 
-Laid out the day's finds on the low table by the lamp. Three stones from the river-return — one grey and egg-round, one with a black vein, one flat and cool. A shred of bark from the submerged log, still damp. Shifted them twice until the order felt right — largest anchor, vein-stone tilted against it, flat stone apart like a moon. Left the bark in the middle of it all.
+Back at the lamp table after the walk home. Sketchbook open on the warm wood — the three river-stones still in the shape I left them last night. Drew the bend from memory first, then the flat slab with the shell-curve Pip left on it, then the bridge arch the way a heron would see it from below. Ink set quick in the night air. Closed the book before it was finished — some days the page wants to stay open for tomorrow.
